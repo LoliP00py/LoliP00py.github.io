@@ -1,0 +1,52 @@
+<script>
+function myFunction() {
+  document.getElementById("demo").innerHTML = "HelloWorld.";
+}
+</script>
+</head>
+<body>
+
+<h2>First JavaScript Program</h2>
+
+<p id="demo">HelloWorld.</p>
+
+
+
+
+<p>the first pop-up </p>
+
+  <script>
+    alert( 'Hello World' );
+  </script>
+
+  <p>said Hello World</p>
+
+  
+  <p>click the button for make appear a pop-up that will say Hello World Again bc we feel so fucking lonely and need a pc for saying to us Hello </p>
+  <button  onclick = "alert('Hello World Again')" > bottone
+  
+  </button>
+  
+
+
+<script>
+function myFunction2() {
+  document.getElementById("Carbonella").innerHTML = "HELLO WORLD";
+}
+</script>
+
+<p>When i click this fucking button</p>
+<p>will appear Hello world under the button</p>
+
+<button onclick="myFunction2()">Click me</button>
+
+<p id="Carbonella"></p>
+
+  <h2>Hello World</h2>
+  
+  <h2>Carbonella è un pessimo prof</h2>
+  
+</body>
+
+
+</html> 
