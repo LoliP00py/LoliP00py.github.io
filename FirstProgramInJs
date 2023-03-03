@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <script>
 function myFunction() {
   document.getElementById("demo").innerHTML = "HelloWorld.";
