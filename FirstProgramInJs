@@ -35,8 +35,8 @@ function myFunction2() {
 }
 </script>
 
-<p>When i click this fucking button</p>
-<p>will appear Hello world under the button</p>
+<p>When i click this button</p>
+<p>will appear Hello world under it</p>
 
 <button onclick="myFunction2()">Click me</button>
 
