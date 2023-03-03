@@ -22,7 +22,7 @@ function myFunction() {
   <p>said Hello World</p>
 
   
-  <p>click the button for make appear a pop-up that will say Hello World Again bc we feel so lonely and need a pc that talk to us  </p>
+  <p>clicking the button will appear a pop-up that will say Hello World Again bc we feel so lonely and need a pc that talk to us  </p>
   <button  onclick = "alert('Hello World Again')" > bottone
   
   </button>
